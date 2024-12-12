@@ -58,12 +58,3 @@ pip install pandas numpy tensorflow
 
 ![image](https://github.com/user-attachments/assets/5015054d-3c3c-4a5a-9a49-3cd309e81fe2)
 
----
-
-## Notes
-Make sure to have Jupyter Notebook installed in your environment. You can install it using:
-```bash
-pip install notebook
-```
-
-For any issues or questions, feel free to contact the repository maintainer.
